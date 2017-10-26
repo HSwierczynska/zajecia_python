@@ -5,4 +5,7 @@ print (plikDoCzytania.read())
 
 
 
+
+
+
 plikDoCzytania.close()
